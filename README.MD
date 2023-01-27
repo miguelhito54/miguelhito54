@@ -1,6 +1,6 @@
 
 
-<img src="./assets/birdy.gif" width="27px">  Hola! mi nombre es Miguel Angel 
+# <img src="./assets/birdy.gif" width="30px">  Hola! mi nombre es Miguel Angel 
 
 
 
