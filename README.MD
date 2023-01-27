@@ -13,8 +13,7 @@ Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyect
 |<a href="#">Portafolio</a>  💼                             
 
 ### 
-<h3 align="center">CONTACTAME</h3>
-
+#### CONTACTAME
 ###
 ---------------------------------------------------------- 
 
