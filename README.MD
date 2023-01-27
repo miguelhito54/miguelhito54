@@ -21,7 +21,7 @@ Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyect
 <div> 
   <a href="https://www.youtube.com/channel/UCGf4Ws-6bJP7b2JV3my2aiw" target="_blank"><img src="./assets/contactame2.png" width="40px" target="_blank">
   </a>
-  <a href="https://www.instagram.com/miguelg0205/" target="_blank"> <img src="./assets/contactame4.png" width="40px" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/miguelg0205/"> <img src="./assets/contactame4.png" width="40px" target="_blank">
   </a>
   <a href="https://twitter.com/miguelhito54" target="_blank"> <img src="./assets/contactame3.png" width="40px" target="_blank">
   </a>
