@@ -7,10 +7,10 @@
 Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyectos interesantes y desafiantes, tengo una pasión por aprender, trabajar en herramientas y tendencias innovadoras. 🐱‍👤
 
 
-|Ingeniero de Software       |                              |
-|----------------------------|------------------------------|
-|<a href="">Certificados</a> 📜                             |
-|<a href="#">Portafolio</a>  💼                             |
+|Ingeniero de Software       |                              
+|----------------------------|
+|<a href="">Certificados</a> 📜                             
+|<a href="#">Portafolio</a>  💼                             
 
 ### 
 <h3 align="center">CONTACTAME</h3>
