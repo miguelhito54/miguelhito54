@@ -12,6 +12,7 @@ Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyect
 |<a href="">Certificados</a> 📜                             
 |<a href="#">Portafolio</a>  💼                             
 
+## <a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="100"></a>
 ### 
 #### CONTACTAME
 ###
