@@ -9,8 +9,8 @@ Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyect
 
 |Ingeniero de Software       |                              |
 |----------------------------|------------------------------|
-|<a href="">Certificados</a> |📜                           
-|
+|<a href="">Certificados</a> 📜                           |
+|<a href="#">Portafolio</a>  💼                           |
 
 ### 
 <h3 align="center">CONTACTAME</h2>
