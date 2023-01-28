@@ -16,7 +16,7 @@ Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyect
 
 ##
 ### 
-#### CONTACTAME
+#### CONTACTAME <img src="./assets/fire.gif" width="250" align='center'>
 ###
 ---------------------------------------------------------- 
 
