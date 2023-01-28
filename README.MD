@@ -7,7 +7,7 @@
 Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyectos interesantes y desafiantes, tengo una pasión por aprender, trabajar en herramientas y tendencias innovadoras. 🐱‍👤
 
 
-<a href="patreon.com/user?u=7116553"><img src="/assets/patreon.png" width="110"></a> <a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
+<a href="https://patreon.com/user?u=7116553&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link"><img src="/assets/patreon.png" width="110"></a> <a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
 
 |Ingeniero de Software       |                               
 |----------------------------|
@@ -16,7 +16,7 @@ Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyect
 
 ##
 ### 
-#### CONTACTAME <img src="./assets/fire.gif" width="250" align='center'>
+#### CONTACTAME 
 ###
 ---------------------------------------------------------- 
 
