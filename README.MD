@@ -31,5 +31,5 @@
   </a>
   <a href="https://www.linkedin.com/in/miguel-angel-garcia-6a983419a/" target="_blank"><img src="./assets/contactame1.png" target="_blank" width="40px">
   </a> 
-<a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="114"></a>
+<a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="105"></a>
 </div>
