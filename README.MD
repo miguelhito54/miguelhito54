@@ -4,7 +4,7 @@
 
 
 
-  Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyectos interesantes y desafiantes, tengo una pasión por aprender, trabajar en herramientas y tendencias innovadoras.
+  Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyectos interesantes y desafiantes, tengo una pasión por aprender y trabajar en herramientas y tendencias innovadoras.
 
 <a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
 
