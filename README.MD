@@ -7,7 +7,7 @@
 
 
 
-|Ingeniero de Software       |                               
+|Software Engineer       |                               
 |----------------------------|
 |<a href="#">Certificados</a> 📜                             
 |<a href="#">Portafolio</a>  💼                              
