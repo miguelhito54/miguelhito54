@@ -2,9 +2,7 @@
 
 # <img src="./assets/birdy.gif" width="30px">  Hola! mi nombre es Miguel Angel 
 
-
-
-  Mi objetivo es utilizar mi experiencia y habilidades para contribuir con proyectos interesantes y desafiantes, tengo una pasión por aprender y trabajar en herramientas y tendencias innovadoras.
+La unica manera de hacer un buen trabajo es amar lo que haces.
 
 <a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
 
