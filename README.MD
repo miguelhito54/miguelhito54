@@ -1,10 +1,10 @@
 
 
-# <img src="./assets/birdy.gif" width="30px">  Hola! mi nombre es Miguel Angel 
+# <img src="./assets/birdy.gif" width="30px">  Hi! my name is Miguel Angel 
 
-La unica manera de hacer un buen trabajo es amar lo que haces.
+"The only way to do great work is to love what you do."
 
-<a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
+
 
 
 |Ingeniero de Software       |                               
@@ -31,3 +31,4 @@ La unica manera de hacer un buen trabajo es amar lo que haces.
   </a> 
 
 </div>
+<a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
