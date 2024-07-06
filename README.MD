@@ -11,7 +11,7 @@
 |----------------------------|
 |<a href="#">Certificados</a> 📜                             
 |<a href="#">Portafolio</a>  💼                              
-
+<a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
 ##
 ### 
 #### CONTACTAME 🚀
@@ -31,4 +31,4 @@
   </a> 
 
 </div>
-<a href="https://ko-fi.com/miguelhito54"><img src="/assets/kofi.png" width="110"></a>
+
