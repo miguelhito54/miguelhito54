@@ -1,6 +1,6 @@
 
 
-# <img src="./assets/birdy.gif" width="30px">  Im Miguel Angel  
+# <img src="./assets/birdy.gif" width="30px">  I'm Miguel Angel  
 
 "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal."
 
