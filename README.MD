@@ -7,7 +7,7 @@
 
 
 
-|Software Engineer       |                               
+|Full-Stack Engineer      |                               
 |----------------------------|
 |<a href="#">Certificados</a> 📜                             
 |<a href="#">Portafolio</a>  💼                              
