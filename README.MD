@@ -24,7 +24,7 @@
   <a target="_blank" href="https://www.instagram.com/miguel_angel_1618/"> <img src="./assets/contactame4.png" width="40px" target="_blank">
   <a href = "mailto:miguelhito54@gmail.com"> <img align="right" src="./assets/contactame5.png" target="_blank" width="40px">
   </a>
-  <a href="www.linkedin.com/in/miguel-ángel-garcía-6a983419a" target="_blank"><img src="./assets/contactame1.png" target="_blank" width="40px">
+  <a href="https://www.linkedin.com/in/miguel-ángel-garcía-6a983419a/" target="_blank"><img src="./assets/contactame1.png" target="_blank" width="40px">
   </a> 
 
 </div>
